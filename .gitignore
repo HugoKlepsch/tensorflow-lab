@@ -1,0 +1,4 @@
+venv/
+*.sw*
+*.o
+.ipynb_checkpoints/
